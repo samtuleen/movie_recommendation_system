@@ -1,3 +1,5 @@
+![moviesystem](https://user-images.githubusercontent.com/71333855/134212926-2be7ad55-a3d6-4a0d-85df-f844fdd91098.png)
+
 # Simple Netflix Movie Recommendation System
 
 This respository contains an example of a simple Netflix movie recommendation system. The data was sourced from kaggle.com and can be found [here](https://www.kaggle.com/shivamb/netflix-shows)
