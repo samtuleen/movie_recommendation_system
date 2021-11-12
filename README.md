@@ -1,4 +1,4 @@
-![moviesystem]("https://user-images.githubusercontent.com/71333855/141502778-57e0a158-e094-4264-bfc0-d989a51c9b5c.png)
+![moviesystem](https://user-images.githubusercontent.com/71333855/141502778-57e0a158-e094-4264-bfc0-d989a51c9b5c.png)
 
 # Simple Netflix Movie Recommendation System
 
